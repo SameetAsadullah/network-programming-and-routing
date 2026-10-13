@@ -10,7 +10,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-EXERCISES = (
+IMPLEMENTATIONS = (
     "sockets/tcp-client-server", "sockets/tcp-multi-client",
     "sockets/udp-client-server", "sockets/select-concurrent-server",
     "packet-tracer/static-routing", "packet-tracer/dynamic-routing",
@@ -21,11 +21,11 @@ EXERCISES = (
 
 def main() -> int:
     errors: list[str] = []
-    for relative in EXERCISES:
+    for relative in IMPLEMENTATIONS:
         if not (ROOT / relative / "README.md").is_file():
             errors.append(f"missing README: {relative}")
 
-    for relative in EXERCISES[4:]:
+    for relative in IMPLEMENTATIONS[4:]:
         if not any((ROOT / relative / "src").glob("*.pkt")):
             errors.append(f"missing Packet Tracer topology: {relative}")
 
@@ -55,7 +55,7 @@ def main() -> int:
         for error in errors:
             print(f"- {error}")
         return 1
-    print(f"Validated {len(EXERCISES)} networking exercises.")
+    print(f"Validated {len(IMPLEMENTATIONS)} networking implementations.")
     return 0
 
 
