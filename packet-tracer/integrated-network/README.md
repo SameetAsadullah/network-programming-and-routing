@@ -10,5 +10,5 @@ Implemented a complete network i.e, `Every Routing Protocol` (RIP, OSPF, EIGRP, 
 
 ### Subnetting
 <div align="center">
-  <img src="src/IP Addresses.png" alt="Integrated network IP addressing" width="900px"/>
+  <img src="docs/ip-addresses.png" alt="Integrated network IP addressing" width="900px"/>
 </div>

@@ -10,5 +10,5 @@ Implemented two `Static Routing` topologies using `Cisco Packet Tracer`.
 
 ### Configuration
 <div align="center">
-  <img src="src/R1_config.jpg" alt="Router configuration" width="500px"/>
+  <img src="docs/router-1-configuration.jpg" alt="Router configuration" width="500px"/>
 </div>
