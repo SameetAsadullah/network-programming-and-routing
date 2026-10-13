@@ -1,7 +1,7 @@
 <h1 align="center">UDP Client Server Communication</h1>
 
 ### Description
-A simple program coded in `C Language` to illustrate a `UDP Client Server Communication` in `Socket Programming`.
+A C socket implementation of connectionless client-server messaging over UDP.
 
 ### Manual
 1) Use following commands to `Compile and Run Server Code`:

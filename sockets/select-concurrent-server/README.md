@@ -1,7 +1,7 @@
 <h1 align="center">Select Function Socket Programming</h1>
 
 ### Description
-A program coded in `C Language` to create a `Non-Forking Concurrent` Client-Server Chat Program using `Select Function`.
+A concurrent C chat server that multiplexes client connections with `select` instead of per-client processes.
 
 ### Manual
 1) Use following commands to `Compile and Run Server Code`:
