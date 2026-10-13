@@ -5,5 +5,5 @@ Implemented a demo topology to describe `Enhanced Interior Gateway Routing Proto
 
 ### Topology
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/EIGRP-Using-Cisco-Packet-Tracer/blob/main/src/Topology.PNG" alt = "" width="700px"/>
+  <img src="src/Topology.PNG" alt="EIGRP topology" width="700px"/>
 </div>

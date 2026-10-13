@@ -5,10 +5,10 @@ Implemented two demo topologies to describe `Static Routing` using `Cisco Packet
 
 ### Topology
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Static-Routing-Using-Cisco-Packet-Tracer/blob/main/src/Topology.PNG" alt = "" width="500px"/>
+  <img src="src/Topology.PNG" alt="Static-routing topology" width="500px"/>
 </div>
 
 ### Configuration
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Static-Routing-Using-Cisco-Packet-Tracer/blob/main/src/R1_config.jpg" alt = "" width="500px"/>
+  <img src="src/R1_config.jpg" alt="Router configuration" width="500px"/>
 </div>

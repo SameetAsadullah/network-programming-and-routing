@@ -22,5 +22,5 @@ A simple program coded in `C Language` to illustrate a `TCP Multiple Client Serv
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/TCP-Multiple-Client-Server-Communication/blob/main/extras/working-ss.png" alt = "" width="900px"/>
+  <img src="extras/working-ss.png" alt="Multi-client TCP communication" width="900px"/>
 </div>

@@ -5,5 +5,5 @@ Implemented a demo topology to describe `Open Shortest Path First (OSPF)` using 
 
 ### Topology
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/OSPF-Using-Cisco-Packet-Tracer/blob/main/src/Topology.PNG" alt = "" width="700px"/>
+  <img src="src/Topology.PNG" alt="OSPF topology" width="700px"/>
 </div>

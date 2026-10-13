@@ -5,10 +5,10 @@ Implemented a complete network i.e, `Every Routing Protocol` (RIP, OSPF, EIGRP, 
 
 ### Topology
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/All-Routing-Protocols-And-Servers-Using-Cisco-Packet-Tracer/blob/main/src/Topology.png" alt = "" width="900px"/>
+  <img src="src/Topology.png" alt="Integrated network topology" width="900px"/>
 </div>
 
 ### Subnetting
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/All-Routing-Protocols-And-Servers-Using-Cisco-Packet-Tracer/blob/main/src/IP Addresses.png" alt = "" width="900px"/>
+  <img src="src/IP Addresses.png" alt="Integrated network IP addressing" width="900px"/>
 </div>

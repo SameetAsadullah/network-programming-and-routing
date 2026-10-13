@@ -5,5 +5,5 @@ Implemented two demo topologies to describe `Dynamic Routing` using `Cisco Packe
 
 ### Topologies
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Dynamic-Routing-Using-Cisco-Packet-Tracer/blob/main/src/Topologies.jpg" alt = "" width="500px"/>
+  <img src="src/Topologies.jpg" alt="Dynamic-routing topologies" width="500px"/>
 </div>

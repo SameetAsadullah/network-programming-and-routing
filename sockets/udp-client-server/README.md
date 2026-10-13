@@ -22,5 +22,5 @@ A simple program coded in `C Language` to illustrate a `UDP Client Server Commun
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/UDP-Client-Server-Communication/blob/main/extras/working-ss.png" alt = "" width="900px"/>
+  <img src="extras/working-ss.png" alt="UDP client-server communication" width="900px"/>
 </div>

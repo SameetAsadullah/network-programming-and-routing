@@ -5,5 +5,5 @@ Implemented a demo topology to describe `Dynamic Host Configuration Protocol (DH
 
 ### Topology
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/DHCP-Using-Cisco-Packet-Tracer/blob/main/src/Topology.PNG" alt = "" width="700px"/>
+  <img src="src/Topology.PNG" alt="DHCP topology" width="700px"/>
 </div>
