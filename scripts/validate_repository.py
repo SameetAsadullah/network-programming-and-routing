@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate collection structure, media links, and socket-source syntax."""
+"""Validate network structure, media links, and socket-source syntax."""
 
 from __future__ import annotations
 

@@ -1,8 +1,8 @@
-# Network Programming and Routing
+# Route Bridge
 
-A curated collection of TCP/UDP socket systems and Cisco Packet Tracer network designs.
+C TCP/UDP socket services and Cisco Packet Tracer network topologies covering routing and network services.
 
-The repository connects two sides of network engineering: implementing TCP/UDP communication in C and designing routed services and protocols in simulated networks. Original implementations and Packet Tracer files are retained with consistent organization and validation.
+The socket programs implement client/server communication, while the topologies model routed networks and services. Source files, topology files, and validation checks are organized by subsystem.
 
 ## Contents
 
@@ -16,8 +16,8 @@ The repository connects two sides of network engineering: implementing TCP/UDP c
 - A POSIX environment with a C compiler for socket examples
 - Cisco Packet Tracer for `.pkt` topology files
 
-Each implementation retains its README, source, screenshots, and topology files where available.
+Each component includes its README, source, screenshots, and topology files where available.
 
 ## Provenance and licensing
 
-See [PROVENANCE.md](PROVENANCE.md). Per-project license files are retained where they existed; no blanket license is applied to previously unlicensed work.
+See [PROVENANCE.md](PROVENANCE.md) for source history and licensing. Existing component licenses are retained; no blanket license is applied to previously unlicensed work.
